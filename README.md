@@ -1,10 +1,10 @@
 # GameOfFighting
-《赵云要格斗》游戏源码与资源 
+《赵云要格斗》游戏源码与资源   
 笔者邮箱：ling20081005@126.com
  
 **若是觉得本项目对你有用，那么请给辛苦的笔者右上角Star一颗星星！不胜感激～～～～**
 #简要介绍
-《赵云要格斗》是一框格斗类游戏，代码全部是本人原创，资源图片部分原创，部分网上搜集。游戏的具体代码实现过程以及游戏效果请看笔者博客地址：[http://blog.csdn.net/evankaka](http://blog.csdn.net/evankaka "http://blog.csdn.net/evankaka")
+《赵云要格斗》是一款格斗类游戏，代码全部是本人原创，资源图片部分原创，部分网上搜集。游戏的具体代码实现过程以及游戏效果请看笔者博客地址：[http://blog.csdn.net/evankaka](http://blog.csdn.net/evankaka "http://blog.csdn.net/evankaka")
 #游戏专辑
 [http://blog.csdn.net/column/details/cocos2dxforgame.html](http://blog.csdn.net/column/details/cocos2dxforgame.html)(此专辑还收录了《雷电大战》)
 #专辑目录
