@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\英雄">
+      <UniqueIdentifier>{30438764-e992-44be-a289-b03027703f3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\怪物">
+      <UniqueIdentifier>{e53cd444-fad4-4d5b-b71b-184aa1675dc3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\地图">
+      <UniqueIdentifier>{bfc7d44e-f744-4963-a720-9f67f0971ed7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\按钮">
+      <UniqueIdentifier>{9b6eec81-21be-49a9-8974-013a3a7d78b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\摇杆">
+      <UniqueIdentifier>{9e1cddad-a839-40f9-b4f6-5a92ebf19feb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\血条">
+      <UniqueIdentifier>{b498d861-e1d0-4313-80ff-e55a0582d68b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\文字">
+      <UniqueIdentifier>{14b3bf0f-0575-400c-976f-48e26a75e4db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\场景">
+      <UniqueIdentifier>{6e4e6e43-6d9e-4433-a258-8cb4cd8e69b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\中文转码">
+      <UniqueIdentifier>{5f39f097-4123-4c5d-8405-60a7f528e9c5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ControlButton.cpp">
+      <Filter>Classes\按钮</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Hero.cpp">
+      <Filter>Classes\英雄</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HRocker.cpp">
+      <Filter>Classes\摇杆</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Monster.cpp">
+      <Filter>Classes\怪物</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Map.cpp">
+      <Filter>Classes\地图</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ProgressView.cpp">
+      <Filter>Classes\血条</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FlyWord.cpp">
+      <Filter>Classes\文字</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SkillButton.cpp">
+      <Filter>Classes\按钮</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gamepause.cpp">
+      <Filter>Classes\场景</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameLogin.cpp">
+      <Filter>Classes\场景</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameAbout.cpp">
+      <Filter>Classes\场景</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameString.cpp">
+      <Filter>Classes\场景</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ControlButton.h">
+      <Filter>Classes\按钮</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Hero.h">
+      <Filter>Classes\英雄</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Monster.h">
+      <Filter>Classes\怪物</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Map.h">
+      <Filter>Classes\地图</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ProgressView.h">
+      <Filter>Classes\血条</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HRocker.h">
+      <Filter>Classes\摇杆</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FlyWord.h">
+      <Filter>Classes\文字</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SkillButton.h">
+      <Filter>Classes\按钮</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gamepause.h">
+      <Filter>Classes\场景</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameLogin.h">
+      <Filter>Classes\场景</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameAbout.h">
+      <Filter>Classes\场景</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ChineseString.h">
+      <Filter>Classes\中文转码</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameString.h">
+      <Filter>Classes\场景</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
